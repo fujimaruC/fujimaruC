@@ -1,84 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a3093,100:00c9ff&height=220&section=header&text=Hi,%20I'm%20Jerukochi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Trying%20to%20be%20a%20Full-stack%20Dev&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a3093,100:00c9ff&height=200&section=header&text=JERIKOCHI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Trying%20to%20be%20a%20Full-stack%20Dev&descAlignY=60&descSize=16" width="100%"/>
 
-<a href="https://github.com/fujimaruC">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6AF7FF&center=true&vCenter=true&width=600&lines=Exploring+Full-stack+Web+Dev;Dabbling+in+Data+%26+AI;Tinkering+with+Game+Dev;Always+learning+something+new%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=6AF7FF&center=true&vCenter=true&width=800&lines=Exploring+full-stack+web+dev;Dabbling+in+data+and+AI;Tinkering+with+game+dev;Always+shipping+something+new" width="800"/>
 
 </div>
 
 <br/>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/aditya-K2/aditya-K2/master/gifs/Coding.gif" />
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-### 🧭 About Me
+### About
 
-- 🔭 Currently exploring **full-stack, data/AI, and game dev** — jack of all trades in progress
-- 🌱 Learning something new pretty much every week
-- ⚡ Fun fact: my profile picture is basically my coding alter-ego
-- 📫 Reach me via GitHub — say hi anytime!
+Currently bouncing between **full-stack, data/AI, and game dev** — still figuring out which lane to settle into, and honestly enjoying the chaos.
 
-<br clear="right"/>
+- Learning something new most weeks
+- Building small projects to stress-test new tools
+- Open to collaborating on anything interesting
 
-### 🛠️ Tech Playground
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fujimaruC&show_icons=true&theme=radical&hide_border=true&hide_title=true&include_all_commits=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+### Stack
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,html,css,unity,tensorflow,git,docker,figma&theme=dark" />
 
 </div>
 
-### 📊 Stats & Streaks
+### Streaks & Languages
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fujimaruC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=fujimaruC&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujimaruC&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fujimaruC&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujimaruC&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 </div>
 
-### 📈 Activity Graph
+### Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fujimaruC&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fujimaruC&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%"/>
 
 </div>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fujimaruC/fujimaruC/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/fujimaruC/fujimaruC/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 <div align="center">
 
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=fujimaruC&theme=tokyonight&no-frame=true&row=1&column=7" />
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=fujimaruC&color=6a3093&style=flat" height="14"/></sub>
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=fujimaruC&style=for-the-badge&color=6a3093)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:6a3093,100:1a1a2e&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:6a3093,100:1a1a2e&height=100&section=footer" width="100%"/>
