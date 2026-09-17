@@ -61,11 +61,17 @@
 
 </div>
 
-### Activity
+### Runtime
 
 <div align="center">
+  <img src="./hsin.gif" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fujimaruC&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%"/>
+<br/>
+
+![Arch](https://img.shields.io/badge/system-arch_linux-1793D1?style=for-the-badge&logo=archlinux)
+![Status](https://img.shields.io/badge/sleep.service-FAILED-FF0080?style=for-the-badge)
+![Brain](https://img.shields.io/badge/brain.cpu-97%25-7928CA?style=for-the-badge)
+![Ping](https://img.shields.io/badge/motivation-packet_loss-00DFD8?style=for-the-badge)
 
 </div>
 
