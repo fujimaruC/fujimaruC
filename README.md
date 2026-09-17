@@ -8,14 +8,6 @@
 
 <br/>
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/fujimaruC/fujimaruC/main/picture.png"
-    alt="Profile picture"
-    width="1000"
-  />
-</div>
-
 <br/>
 
 <div align="center">
