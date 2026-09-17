@@ -9,18 +9,11 @@
 <br/>
 
 <div align="center">
-
-```
-┌─[ whoami ]──────────────────────────────────────────────────┐
-│ name        : Jerikochi                                      │
-│ focus       : Networking // Cybersecurity                    │
-│ side_quests : Full-stack, Data/AI, Game Dev                  │
-│ status      : deep-diving network internals + offsec/defsec  │
-│ mindset     : learning something new every week               │
-│ open_to     : collabs on anything interesting                 │
-└────────────────────────────────────────────────────────────┘
-```
-
+  <img
+    src="https://raw.githubusercontent.com/fujimaruC/fujimaruC/main/picture.png"
+    alt="Profile picture"
+    width="1000"
+  />
 </div>
 
 <br/>
