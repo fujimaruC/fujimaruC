@@ -23,7 +23,7 @@ Currently bouncing between **full-stack, data/AI, and game dev** — still figur
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fujimaruC&show_icons=true&theme=radical&hide_border=true&hide_title=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fujimaruC&show_icons=true&theme=radical&hide_border=true&hide_title=true&include_all_commits=true&cache_seconds=1800" width="100%"/>
 
 </td>
 </tr>
@@ -41,8 +41,8 @@ Currently bouncing between **full-stack, data/AI, and game dev** — still figur
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fujimaruC&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujimaruC&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=fujimaruC&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujimaruC&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
 
 </div>
 
@@ -50,7 +50,7 @@ Currently bouncing between **full-stack, data/AI, and game dev** — still figur
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fujimaruC&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fujimaruC&theme=react-dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" width="100%"/>
 
 </div>
 
