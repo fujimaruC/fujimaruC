@@ -1,41 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a3093,100:00c9ff&height=200&section=header&text=JERIKOCHI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Trying%20to%20be%20a%20Full-stack%20Dev&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,20:24133F,40:6D28D9,60:0070F3,80:00B8D9,100:00DFD8&height=230&section=header&text=JERIKOCHI&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Networking%20%2B%20Cybersecurity%20%2B%20Everything%20Else&descAlignY=62&descSize=16&descColor=ffffff&animation=scaleIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=6AF7FF&center=true&vCenter=true&width=800&lines=Exploring+full-stack+web+dev;Dabbling+in+data+and+AI;Tinkering+with+game+dev;Always+shipping+something+new" width="800"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2800&pause=700&color=00FFAB&background=00000000&center=true&vCenter=true&width=900&lines=sudo+rm+-rf+my+sleep+schedule;it's+not+a+bug%2C+it's+an+undocumented+feature;Wireshark+said%3A+I+see+you...;compiling...+please+clap;404%3A+social+life+not+found;git+commit+-m+%22it+works+on+my+machine%22;currently+hacking+my+own+willpower;ping+-t+my+motivation+(0%25+response)" width="900"/>
 
 </div>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-```yaml
-whoami:
-  name: "Jerikochi"
-  focus: ["Networking", "Cybersecurity"]
-  side_quests: ["Full-stack", "Data/AI", "Game Dev"]
-  status: "Deep-diving into network internals & offensive/defensive security"
-  mindset: "Learning something new every week"
-  open_to: "Collabs on anything interesting"
+```
+┌─[ whoami ]──────────────────────────────────────────────────┐
+│ name        : Jerikochi                                      │
+│ focus       : Networking // Cybersecurity                    │
+│ side_quests : Full-stack, Data/AI, Game Dev                  │
+│ status      : deep-diving network internals + offsec/defsec  │
+│ mindset     : learning something new every week               │
+│ open_to     : collabs on anything interesting                 │
+└────────────────────────────────────────────────────────────┘
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=fujimaruC&show_icons=true&theme=radical&hide_border=true&hide_title=true&cache_seconds=1800" width="100%"/>
+<br/>
 
-</td>
-</tr>
-</table>
+<div align="center">
 
-### Stack
+![Followers](https://img.shields.io/github/followers/fujimaruC?label=FOLLOWERS&style=for-the-badge&color=FF0080&labelColor=1a1a2e)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/fujimaruC&label=REPOS&query=$.public_repos&style=for-the-badge&color=7928CA&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=fujimaruC&label=PROFILE+VIEWS&style=for-the-badge&color=00DFD8&labelColor=1a1a2e)
+
+</div>
+
+### Arsenal
 
 <div align="center">
 
@@ -65,12 +63,16 @@ whoami:
 
 </div>
 
-### Streaks & Languages
+### Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=fujimaruC&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujimaruC&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fujimaruC&theme=2077" width="100%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=fujimaruC&hide_border=true&background=100E17&ring=FF0080&fire=FFDD00&currStreakLabel=00DFD8&sideLabels=7928CA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00B8D9" height="350"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fujimaruC&theme=2077" height="350"/>
 
 </div>
 
@@ -78,7 +80,7 @@ whoami:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fujimaruC&theme=github-compact&hide_border=true&bg_color=0d1117&color=6AF7FF&line=6a3093&point=00c9ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fujimaruC&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%"/>
 
 </div>
 
@@ -92,8 +94,6 @@ whoami:
 
 <div align="center">
 
-<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=fujimaruC&color=6a3093&style=flat" height="14"/></sub>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFDD00,25:00DFD8,50:0070F3,75:7928CA,100:FF0080&height=120&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:6a3093,100:1a1a2e&height=100&section=footer" width="100%"/>
