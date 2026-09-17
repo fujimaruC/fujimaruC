@@ -73,7 +73,7 @@ Currently all-in on **networking and cybersecurity**, while still bouncing betwe
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fujimaruC&theme=react-dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fujimaruC&theme=github-compact&hide_border=true&bg_color=0d1117&color=6AF7FF&line=6a3093&point=00c9ff" width="100%"/>
 
 </div>
 
