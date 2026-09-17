@@ -12,19 +12,24 @@
 <tr>
 <td width="60%" valign="top">
 
-### About
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-Currently all-in on **networking and cybersecurity**, while still bouncing between full-stack, data/AI, and game dev on the side.
-
-- Deep-diving into network internals and offensive/defensive security
-- Learning something new most weeks
-- Building small projects to stress-test new tools
-- Open to collaborating on anything interesting
+```yaml
+whoami:
+  name: "Jerikochi"
+  focus: ["Networking", "Cybersecurity"]
+  side_quests: ["Full-stack", "Data/AI", "Game Dev"]
+  status: "Deep-diving into network internals & offensive/defensive security"
+  mindset: "Learning something new every week"
+  open_to: "Collabs on anything interesting"
+```
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fujimaruC&show_icons=true&theme=radical&hide_border=true&hide_title=true&include_all_commits=true&cache_seconds=1800" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fujimaruC&show_icons=true&theme=radical&hide_border=true&hide_title=true&cache_seconds=1800" width="100%"/>
 
 </td>
 </tr>
